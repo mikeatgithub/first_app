@@ -1,1 +1,1 @@
-RoR firt app demo.
+RoR fisrt app demo.
